@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#titulo1{
+    color: blueviolet;
+}   
+#letra1{
+    color: blueviolet;
+    font-size: 18px;
+}
+.destaque{
+    color: palevioletred;
+}
